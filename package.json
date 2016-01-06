@@ -1,0 +1,13 @@
+{
+    "name": "chinese-simplified-common-characters",
+    "version": "1.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+    },
+    "files": [
+        "lib/"
+    ],
+    "author": "liaohuqiu@gmail.com",
+    "license": "MIT"
+}
